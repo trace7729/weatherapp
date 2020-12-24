@@ -6,5 +6,5 @@ Class **Weather** represents one day’s weather data as one object. Class MainA
 Class **WeatherArrayAdapter** defines a custom ArrayAdapter subclass for binding the ArrayList<Weather> to the MainActivity’s ListView. ListView items are indexed from 0 and each ListView item’s nested views are populated with data from the Weather object at the same index in the ArrayList<Weather>.<br/>
 Class **MainActivity** defines the app’s user interface, the logic for implementing method RobotCallback, and the logic for interacting with the OpenWeatherMap.org daily forecast web service.<br/>
 Key in the name of City
-![hippo](./Animated GIF-downsized_large.gif)
+![hippo](/Animated GIF-downsized_large.gif)
 *Deitel, Pau J., and Harvey M. Deitel. Android, How to Program. Boston: Pearson, 2017. p.270-300
