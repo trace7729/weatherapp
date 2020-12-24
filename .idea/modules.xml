@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../RobotActivityLibrary/RobotActivityLibrary.iml" filepath="$PROJECT_DIR$/../RobotActivityLibrary/RobotActivityLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RobotDevSample/RobotDevSample.iml" filepath="$PROJECT_DIR$/../RobotDevSample/RobotDevSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RobotLineFollow/RobotLineFollow.iml" filepath="$PROJECT_DIR$/../RobotLineFollow/RobotLineFollow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RobotSensorSample/RobotSensorSample.iml" filepath="$PROJECT_DIR$/../RobotSensorSample/RobotSensorSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZenboDialogSample3/ZenboDialogSample3.iml" filepath="$PROJECT_DIR$/../ZenboDialogSample3/ZenboDialogSample3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZenboHelloWorld/ZenboHelloWorld.iml" filepath="$PROJECT_DIR$/../ZenboHelloWorld/ZenboHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZenboJunior.iml" filepath="$PROJECT_DIR$/../ZenboJunior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mynewsagg/mynewsagg.iml" filepath="$PROJECT_DIR$/../mynewsagg/mynewsagg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ttsapp/ttsapp.iml" filepath="$PROJECT_DIR$/../ttsapp/ttsapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weatherapp.iml" filepath="$PROJECT_DIR$/weatherapp.iml" />
+    </modules>
+  </component>
+</project>
